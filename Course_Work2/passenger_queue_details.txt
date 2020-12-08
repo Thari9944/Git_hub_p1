@@ -1,0 +1,8 @@
+Train Booking System
+2020-04-20
+
+Minimum Waiting Time :\t6
+Maximum Waiting Time :	38
+Number Of Passengers In Train :	6
+Average Waiting Time :	26
+Maximum length of the Queue :	4
